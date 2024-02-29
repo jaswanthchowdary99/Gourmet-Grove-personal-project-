@@ -1,0 +1,79 @@
+///1 Hi
+
+I'm Meka Jaswanth Chowdary, and today marks my first day at your company. Excited to contribute to the team! Here's a bit about me:
+
+* Hometown: Visakhaptnam
+* Education: BHM form MS Ramaiah institute of applied sciences
+* Technologies: Proficient in JavaScript
+* Hobbies: cooking,travelling
+* Looking forward to a great journey here!
+
+Best,
+Meka Jaswanth Chowdary
+
+
+///2 Daily log
+
+Hi,
+
+1. Yesterday's Accomplishments:
+
+* Complete all the Sql exercises given.
+* Completed half of Html & css exercises given.
+
+2. Today's Plan:
+
+* Going to complete the rest of the Html & Css exercises.
+* Going to start doing the drills in Html & css.
+
+3.Requests/Blockers:
+
+* Have some clarifications on asynchronous javascript.
+
+Best,
+Meka Jaswanth Chowdary
+
+
+///3 Sick Leave Request
+
+Hi,
+
+I hope this email finds you well. I'm unwell and have consulted a doctor. Requesting 2 days of sick leave from 24/02/2024 to 26/2/2024.
+
+Thanks,
+Meka Jaswanth Chowdary
+
+
+///4 Requesting credentials for Git and Staging Server
+
+Hi sir,
+
+To ensure smooth workflow, I require access to Git and staging server credentials. Your assistance in providing these would be greatly appreciated.
+
+Thanks,
+Meka Jaswanth Chowdary
+
+
+///5 Request for vacation
+
+Hi,
+
+I hope this email finds you in good health. I would like to request a 5-day vacation around 10/03/2024 to 15/03/2024 to celebrate Diwali with my family.
+
+Thank you,
+Meka Jaswanth Chowdary
+
+
+///6 Feedback Session Request
+
+Hi sir,
+
+I hope you're well. Could we schedule a feedback session regarding my performance in the last month? I'm available from 02:00 pm to 03:00 pm today. Let me know if any of these work for you.
+
+Thanks,
+Meka Jaswanth Chowdary
+
+
+*  https://codepen.io/jaswanthchowdary99/pen/YzgovQj
+*  
+
